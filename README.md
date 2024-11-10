@@ -1,8 +1,5 @@
 # app-dev
 My first repository
-Sure! Here's an example of how I might write about my favorite series using various Markdown elements:
-
----
 
 # **My Favorite Series: *Stranger Things***
 
